@@ -9,7 +9,7 @@ Updated: 27th of January 2022
 
 **How To Install:**
 ```
-1) Download and Extract the SRTHost-v3.1.0.1.rar.
+1) Download and Extract the SRT_DMC4SE.rar.
 2) Run Devil May Cry 4
 3) Open SRTHost32.exe
 4) Open this site - https://mysterion06.github.io/SRTDMC4SE/
